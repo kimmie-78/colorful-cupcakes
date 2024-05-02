@@ -1,7 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #3a86ff;
-    color: whitesmoke;
+    background-color: #EFD9CE;
+    color: #555;
 }
 
 .cupcake {
@@ -34,17 +34,17 @@ body {
 }
 
 .cupcake1 {
-    background-color: #ff006e;
+    background-color: #DEC0F1;
 }
 
 .cupcake2 {
-    background-color: #fb5607;
+    background-color:  #B79CED;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    background-color:  #957FEF;
 }
 
 .blue {
-    background-color: #3a86ff;
+    background-color: #7161EF;
 }
